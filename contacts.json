@@ -1,0 +1,14 @@
+[
+    {
+        "name": "someone",
+        "phone": "0000011111",
+        "email": "idk@something",
+        "address": "jupiter"
+    },
+    {
+        "name": "root",
+        "phone": "1234509876",
+        "email": "root@root",
+        "address": "127.0.0.1"
+    }
+]
